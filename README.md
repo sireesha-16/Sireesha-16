@@ -1,11 +1,7 @@
 <h1 align="center">Hi there, I'm Sireesha</h1>
 
-<!--
-**sireesha-16/Sireesha-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://visitcount.itsvg.in/api?id=sireesha-16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
-
--->
 # 💫 About Me:
 
 - 🔭 I’m currently working on Data Science Projects
@@ -29,6 +25,6 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sireesha-16&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
