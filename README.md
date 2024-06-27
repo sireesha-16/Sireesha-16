@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Machine Learning
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Research in Biological Data
 - 💬 Ask me about Biotechnology
 - 📫 How to reach me: [sireeshayadav1606@gmail.com](sireeshayadav1606@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sireesha-s-8171bb289/)
 - 😄 Pronouns: She/Her
