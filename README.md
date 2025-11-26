@@ -36,7 +36,7 @@ All of my projects are released as open-source on GitHub:
 
 #### Awards and Achievements
 
-- won 1st place in paper presentation 
+- won 1st place in several paper presentation and poster presentation
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages & Tools</b></summary>
